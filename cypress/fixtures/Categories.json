@@ -1,0 +1,24 @@
+{
+    "data": {
+        "permissions": [
+            {
+                "resource_name": "rewards",
+                "actions": [
+                    "view",
+                    "edit",
+                    "activate",
+                    "deactivate"
+                ],
+                "restricted_actions": [
+                    null
+                ],
+                "restricted_fields": [
+                    null
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "updated_at": "2019-07-30T11:01:52.220Z"
+    }
+}
